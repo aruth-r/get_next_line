@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line.h                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: aruth-ra <aruth-ra@student.42.fr>          +#+  +:+       +#+        */
+/*   By: aruth-ra <aruth-ra@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/07/05 18:59:33 by aruth-ra          #+#    #+#             */
 /*   Updated: 2021/07/07 22:18:11 by aruth-ra         ###   ########.fr       */
